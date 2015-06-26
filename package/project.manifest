@@ -1,0 +1,31 @@
+{
+	"packageUrl" : "http://192.168.2.106/package/",
+	"remoteManifestUrl" : "http://192.168.2.106/package/project.manifest",
+	"remoteVersionUrl" : "http://192.168.2.106/package/version.manifest",
+	"version" : "0.0.11",
+	"engineVersion" : "3.0",
+
+	"assets" : 
+	{
+		"src/AppEntry.lua" : {
+			"md5" : "..."
+		},
+		"src/Game.lua" : {
+			"md5" : "..."
+		},
+		"src/launcherScene.lua" : {
+			"md5" : "..."
+		},
+		"src/GameScene.lua" : {
+			"md5" : "..."
+		},
+		"res/dog.png" : {
+			"md5" : "....."
+		}
+	},
+    
+    "searchPaths" : [
+    	"src",
+    	"res"
+    ]
+}

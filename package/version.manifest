@@ -3,5 +3,5 @@
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/project.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/version.manifest",
 	"version" : "0.0.002",
-	"engineVersion" : "3.0",
+	"engineVersion" : "3.0"
 }

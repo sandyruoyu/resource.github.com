@@ -1,7 +1,7 @@
 {
-	"packageUrl" : "http://192.168.2.106/package/",
-	"remoteManifestUrl" : "http://192.168.2.106/package/project.manifest",
-	"remoteVersionUrl" : "http://192.168.2.106/package/version.manifest",
-	"version" : "0.0.11",
-	"engineVersion" : "3.0"
+	"packageUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/version.manifest",
+	"version" : "0.0.001",
+	"engineVersion" : "3.0",
 }

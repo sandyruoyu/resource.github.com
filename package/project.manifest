@@ -2,7 +2,7 @@
 	"packageUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/project.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/version.manifest",
-	"version" : "0.0.003",
+	"version" : "0.0.002",
 	"engineVersion" : "3.0",
 
 	"assets" : 
@@ -20,7 +20,7 @@
 			"md5" : "..."
 		},
 		"res/dog.png" : {
-			"md5" : ".."
+			"md5" : "..."
 		}
 	},
     "searchPaths" : [

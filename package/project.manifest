@@ -21,7 +21,11 @@
 		},
 		"res/dog.png" : {
 			"md5" : ".."
-		}
+		},
+		"res/compressed.zip" : { 
+			"md5" : "..",
+			"compressed" : true 
+		} 
 	},
     "searchPaths" : [
     ]

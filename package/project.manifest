@@ -2,7 +2,7 @@
 	"packageUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/project.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/version.manifest",
-	"version" : "0.0.004",
+	"version" : "0.0.003",
 	"engineVersion" : "3.0",
 
 	"assets" : 

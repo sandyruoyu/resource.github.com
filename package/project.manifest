@@ -2,32 +2,16 @@
 	"packageUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/project.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/sandyruoyu/resource.github.com/master/package/version.manifest",
-	"version" : "0.0.008",
+	"version" : "0.0.002",
 	"engineVersion" : "3.0",
 
 	"assets" : 
 	{
-		"src/AppEntry.lua" : {
-			"md5" : "..."
+		"src.zip" : {
+			"md5" : ".."
 		},
-		"src/Game.lua" : {
-			"md5" : "..."
-		},
-		"src/launcherScene.lua" : {
-			"md5" : "..."
-		},
-		"src/GameScene.lua" : {
-			"md5" : "..."
-		},
-		"res/dog.png" : {
-			"md5" : "..."
-		},
-		"res/resZip.zip" : { 
-			"md5" : "....",
-			"compressed" : true 
-		},
-		"res/worldMap.zip" : { 
-			"md5" : ".",
+		"res.zip" : { 
+			"md5" : "..",
 			"compressed" : true 
 		}
 

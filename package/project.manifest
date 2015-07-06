@@ -8,7 +8,7 @@
 	"assets" : 
 	{
 		"src.zip" : {
-			"md5" : ".."
+			"md5" : "..",
 			"compressed" : true
 		},
 		"res.zip" : { 

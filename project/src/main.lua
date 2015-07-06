@@ -57,7 +57,6 @@ local function main()
 
 end
 
-
 local status, msg = xpcall(main, __G__TRACKBACK__)
 if not status then
     error(msg)

@@ -9,6 +9,7 @@
 	{
 		"src.zip" : {
 			"md5" : ".."
+			"compressed" : true 
 		},
 		"res.zip" : { 
 			"md5" : "..",
